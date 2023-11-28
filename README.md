@@ -1,7 +1,7 @@
 ### Hello World, I'm Lucas 👋🏻
-- 🚀 First steps
+First steps, studying and gaining experience.
 
-### Learning ✍🏻
+### Skills ✍🏻
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height=40 weight=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height=40 weight=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=40 weight=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=40 weight=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 weight=40 />
 
 <div>
